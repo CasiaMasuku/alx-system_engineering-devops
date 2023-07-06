@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 735 hello mkdir
+chmod 753 hello
